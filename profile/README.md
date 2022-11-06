@@ -1,6 +1,6 @@
 # &#x202b; גשרים - מערכת למידה
 
-<img src="https://github.com/eco8200/.github/blob/docs/master/profile/eco8200-logo.png" height="200px">
+<img src="https://github.com/eco8200/.github/blob/master/profile/eco8200-logo.png" height="200px">
 
 #### &#x202b; תוכן עניינים
 
@@ -76,4 +76,4 @@
 כיצד מתארים אותנו ב[נוף הגליל](https://igalalon.ort.org.il/%D7%A9%D7%99%D7%AA%D7%95%D7%A3-%D7%A4%D7%A2%D7%95%D7%9C%D7%94-%D7%A2%D7%9D-%D7%99%D7%97%D7%99%D7%93%D7%AA-8200/)
 
 
-<img src="https://github.com/eco8200/.github/blob/docs/master/profile/eco8200-partners.png">
+<img src="https://github.com/eco8200/.github/blob/master/profile/eco8200-partners.png">
