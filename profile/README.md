@@ -48,7 +48,7 @@
 אם אתם רוצים לעזור יש מספר אפיקים שתוכלו לתרום בהם
 
 &#x202b;
-דברו איתנו
+דברו איתנו [במייל](mailto:gsharim@idf.il) או הצטרפו אלינו ב[discord](https://discord.com/invite/DQpurPsjkV)
 
 ## &#x202b; ראו גם:
 
